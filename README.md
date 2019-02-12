@@ -1,4 +1,4 @@
-# BackMe #
+<h1><img src="https://github.com/radyslavkrechet/PDPBackMe/blob/master/BackMe/Resources/Assets/Assets.xcassets/AppIcon.appiconset/original%20copy.png" width="23" height="23">BackMe</h1>
 
 ### Code examples for the background features: ###
 
